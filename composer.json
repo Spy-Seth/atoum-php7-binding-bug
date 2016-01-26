@@ -1,0 +1,21 @@
+{
+    "name": "spy-seth/atoum-php7-binding-bug",
+    "authors": [
+        {
+            "name": "Armand Abric",
+            "email": "armand@forgebinaire.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MyProject\\": "src/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "atoum/atoum": "^2.5"
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}
